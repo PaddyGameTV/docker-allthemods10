@@ -1,5 +1,5 @@
 
-# [All the Mods 10-5.0](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
+# [All the Mods 10-5.1](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
 <!-- toc -->
 
 - [Description](#description)
@@ -38,7 +38,7 @@ As the end user, you are responsible for accepting the EULA from Mojang to run t
 These environment variables can be set to override their defaults.
 
 * JVM_OPTS "-Xms2500m -Xmx8192m"
-* MOTD "All the Mods 10-5.0 Server Powered by Docker"
+* MOTD "All the Mods 10-5.1 Server Powered by Docker"
 * ALLOW_FLIGHT "true" or "false"
 * MAX_PLAYERS "5"
 * ONLINE_MODE "true" or "false"
