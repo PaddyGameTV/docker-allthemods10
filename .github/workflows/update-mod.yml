@@ -1,9 +1,9 @@
 name: Update Mod from CurseForge
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs at midnight once a day
-  workflow_dispatch:  # Enables manual triggering
+#on:
+#  schedule:
+#   - cron: '0 0 * * *'  # Runs at midnight once a day
+#  workflow_dispatch:  # Enables manual triggering
 
 jobs:
   update-mod:
